@@ -91,6 +91,8 @@ Para executar este projeto, siga as instruções abaixo:
 git clone https://github.com/guilhermebarbarino/CrudJava.git
 cd seu-projeto
 ./mvnw spring-boot:run
+
+tecnologia : JAVA 11 , apache maven , IDE STS
 ```
 
 **Observação:** Certifique-se de ter o Maven instalado.
